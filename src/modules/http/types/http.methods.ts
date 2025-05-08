@@ -1,0 +1,1 @@
+export const httpMethods = [ 'GET', 'POST', 'DELETE', 'PATCH', 'PUT' ] as const;
